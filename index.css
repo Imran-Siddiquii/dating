@@ -13,6 +13,39 @@ body{
    background-attachment:fixed;
 
 }
+#Wholecard1{
+   background: none;
+   border: 0px solid red;
+   width:100%;
+   height:1500px;
+   background-image: url('heart4.png');
+   background-repeat: repeat;
+   background-size:cover;
+   background-attachment:fixed;
+
+}
+#Wholecard2{
+   background: none;
+   border: 0px solid red;
+   width:100%;
+   height:990px;
+   background-image: url('heart5.png');
+   background-repeat: repeat;
+   background-size:cover;
+   background-attachment:fixed;
+
+}
+#Wholecard3{
+   background: none;
+   border: 0px solid red;
+   width:100%;
+   height:990px;
+   background-image: url('heart6.png');
+   background-repeat: repeat;
+   background-size:cover;
+   background-attachment:fixed;
+
+}
 #heading{
   margin:0px;
   color:#7E5109;
@@ -23,7 +56,10 @@ body{
 #heading2{
 text-align:center;
 margin-top: 0px;
-margin-bottom: 0px;
+margin-bottom: 20px;
+float:left;
+border: 0px solid red;
+width:1335px;
    padding: 7px;
 background:linear-gradient(to left,lightblue,crimson);
 font-family: 'Kiwi Maru', serif;
@@ -34,8 +70,8 @@ h3{
   margin: 5px;
   font-family: 'New Tegomin', serif;
   border: 0px solid green;
-  padding:15px 0px;
-  margin: 0px;
+  padding:15px 5px;
+  margin-bottom: 0px;
 }
 .lookin
   {
@@ -566,161 +602,162 @@ float:left;
                    color: #CF1A0C;
                  }
 
+                 .card15{
+                   width:300px;
+                   height:450px;
+                   border: 0px inset black;
+                   margin: 17px;
+                   margin-top: 30px;
+                   text-align: center;
+                   border-radius:9%;
+                   min-width: fit-content;
+                   float:left;
+                 }
+                 img{
+                   border-radius:12%;
+                 }
+                 .card15:hover{
+                   transform: scale(1.05,1.05);
 
-                               .card15{
-                                   width:300px;
-                                   height:450px;
-                                   border: 0px inset black;
-                                   margin: 17px;
-                                   margin-top: 30px;
-                                   text-align: center;
-                               border-radius:9%;
-                               min-width: fit-content;
-                               float:left;
-                                 }
-                                 img{
-                                 border-radius:12%;
-                                 }
-                                .card15:hover{
-                                           transform: scale(1.05,1.05);
+                   font-size: 16px;
+                   font-weight: bolder;
+                   box-shadow: 10px 30px 20px -8px rgba(150, 10, 200, 0.8);
+                 }
+                 .card15 a{
+                   text-decoration: none;
+                   text-align:right;
+                   margin-left: 200px;
+                   color: #0513A6;
+                 }
+                 .card15 a:hover{
+                   color: #CF1A0C;
+                 }
 
-                                           font-size: 16px;
-                                           font-weight: bolder;
-                                           box-shadow: 10px 30px 20px -8px rgba(150, 10, 200, 0.8);
-                                  }
-                                  .card15 a{
-                                    text-decoration: none;
-                                    text-align:right;
-                                    margin-left: 200px;
-                                    color: #0513A6;
-                                  }
-                                  .card15 a:hover{
-                                    color: #CF1A0C;
-                                  }
+                 .card16{
+                   width:300px;
+                   height:450px;
+                   border: 0px inset black;
+                   margin: 17px;
+                   margin-top: 30px;
+                   text-align: center;
+                   border-radius:9%;
+                   min-width: fit-content;
+                   float:left;
+                 }
+                 img{
+                   border-radius:12%;
+                 }
+                 .card16:hover{
+                   transform: scale(1.05,1.05);
 
-                                            .card16{
-                                                    width:300px;
-                                                    height:450px;
-                                                    border: 0px inset black;
-                                                    margin: 17px;
-                                                    margin-top: 30px;
-                                                    text-align: center;
-                                                border-radius:9%;
-                                                min-width: fit-content;
-                                                float:left;
-                                                  }
-                                                  img{
-                                                  border-radius:12%;
-                                                  }
-                                                 .card16:hover{
-                                                            transform: scale(1.05,1.05);
+                   font-size: 16px;
+                   font-weight: bolder;
+                   box-shadow: 10px 30px 20px -8px rgba(150, 10, 200, 0.8);
+                 }
+                 .card16 a{
+                   text-decoration: none;
+                   text-align:right;
+                   margin-left: 200px;
+                   color: #0513A6;
+                 }
+                 .card16 a:hover{
+                   color: #CF1A0C;
+                 }
 
-                                                            font-size: 16px;
-                                                            font-weight: bolder;
-                                                            box-shadow: 10px 30px 20px -8px rgba(150, 10, 200, 0.8);
-                                                   }
-                                                   .card16 a{
-                                                     text-decoration: none;
-                                                     text-align:right;
-                                                     margin-left: 200px;
-                                                     color: #0513A6;
-                                                   }
-                                                   .card16 a:hover{
-                                                     color: #CF1A0C;
-                                                   }
+                 .card17{
+                   width:300px;
+                   height:450px;
+                   border: 0px inset black;
+                   margin: 17px;
+                   margin-top: 30px;
+                   text-align: center;
+                   border-radius:9%;
+                   min-width: fit-content;
+                   float:left;
+                 }
+                 img{
+                   border-radius:12%;
+                 }
+                 .card17:hover{
+                   transform: scale(1.05,1.05);
 
-                                                       .card17{
-                                                                      width:300px;
-                                                                     height:450px;
-                                                                     border: 0px inset black;
-                                                                     margin: 17px;
-                                                                     margin-top: 30px;
-                                                                     text-align: center;
-                                                                 border-radius:9%;
-                                                                 min-width: fit-content;
-                                                                 float:left;
-                                                                   }
-                                                                   img{
-                                                                   border-radius:12%;
-                                                                   }
-                                                                  .card17:hover{
-                                                                             transform: scale(1.05,1.05);
+                   font-size: 16px;
+                   font-weight: bolder;
+                   box-shadow: 10px 30px 20px -8px rgba(150, 10, 200, 0.8);
+                 }
+                 .card17 a{
+                   text-decoration: none;
+                   text-align:right;
+                   margin-left: 200px;
+                   color: #0513A6;
+                 }
+                 .card17 a:hover{
+                   color: #CF1A0C;
+                 }
 
-                                                                             font-size: 16px;
-                                                                             font-weight: bolder;
-                                                                             box-shadow: 10px 30px 20px -8px rgba(150, 10, 200, 0.8);
-                                                                    }
-                                                                    .card17 a{
-                                                                      text-decoration: none;
-                                                                      text-align:right;
-                                                                      margin-left: 200px;
-                                                                      color: #0513A6;
-                                                                    }
-                                                                    .card17 a:hover{
-                                                                      color: #CF1A0C;
-                                                                    }
+                 .card18{
+                   width:300px;
+                   height:450px;
+                   border: 0px inset black;
+                   margin: 17px;
+                   margin-top: 30px;
+                   text-align: center;
+                   border-radius:9%;
+                   min-width: fit-content;
+                   float:left;
+                 }
+                 img{
+                   border-radius:12%;
+                 }
+                 .card18:hover{
+                   transform: scale(1.05,1.05);
 
-                                                                                    .card18{
-                                                                                      width:300px;
-                                                                                      height:450px;
-                                                                                      border: 0px inset black;
-                                                                                      margin: 17px;
-                                                                                      margin-top: 30px;
-                                                                                      text-align: center;
-                                                                                  border-radius:9%;
-                                                                                  min-width: fit-content;
-                                                                                  float:left;
-                                                                                    }
-                                                                                    img{
-                                                                                    border-radius:12%;
-                                                                                    }
-                                                                                   .card18:hover{
-                                                                                              transform: scale(1.05,1.05);
+                   font-size: 16px;
+                   font-weight: bolder;
+                   box-shadow: 10px 30px 20px -8px rgba(150, 10, 200, 0.8);
+                 }
+                 .card18 a{
+                   text-decoration: none;
+                   text-align:right;
+                   margin-left: 200px;
+                   color: #0513A6;
+                 }
+                 .card18 a:hover{
+                   color: #CF1A0C;
+                 }
 
-                                                                                              font-size: 16px;
-                                                                                              font-weight: bolder;
-                                                                                              box-shadow: 10px 30px 20px -8px rgba(150, 10, 200, 0.8);
-                                                                                     }
-                                                                                     .card18 a{
-                                                                                       text-decoration: none;
-                                                                                       text-align:right;
-                                                                                       margin-left: 200px;
-                                                                                       color: #0513A6;
-                                                                                     }
-                                                                                     .card18 a:hover{
-                                                                                       color: #CF1A0C;
-                                                                                     }
+                 .card19{
+                   width:300px;
+                   height:450px;
+                   border: 0px inset black;
+                   margin: 17px;
+                   margin-top: 30px;
+                   text-align: center;
+                   border-radius:9%;
+                   min-width: fit-content;
+                   float:left;
+                 }
+                 img{
+                   border-radius:12%;
+                 }
+                 .card19:hover{
+                   transform: scale(1.05,1.05);
 
-                                                                                             .card19{
-                                                                                                       width:300px;
-                                                                                                       height:450px;
-                                                                                                       border: 0px inset black;
-                                                                                                       margin: 17px;
-                                                                                                       margin-top: 30px;
-                                                                                                       text-align: center;
-                                                                                                   border-radius:9%;
-                                                                                                   min-width: fit-content;
-                                                                                                   float:left;
-                                                                                                     }
-                                                                                                     img{
-                                                                                                     border-radius:12%;
-                                                                                                     }
-                                                                                                    .card19:hover{
-                                                                                                               transform: scale(1.05,1.05);
+                   font-size: 16px;
+                   font-weight: bolder;
+                   box-shadow: 10px 30px 20px -8px rgba(150, 10, 200, 0.8);
+                 }
+                 .card19 a{
+                   text-decoration: none;
+                   text-align:right;
+                   margin-left: 200px;
+                   color: #0513A6;
+                 }
+                 .card19 a:hover{
+                   color: #CF1A0C;
+                 }
 
-                                                                                                               font-size: 16px;
-                                                                                                               font-weight: bolder;
-                                                                                                               box-shadow: 10px 30px 20px -8px rgba(150, 10, 200, 0.8);
-                                                                                                      }
-                                                                                                      .card19 a{
-                                                                                                        text-decoration: none;
-                                                                                                        text-align:right;
-                                                                                                        margin-left: 200px;
-                                                                                                        color: #0513A6;
-                                                                                                      }
-                                                                                                      .card19 a:hover{
-                                                                                                        color: #CF1A0C;
-                                                                                                      }
+
 table{
      border:0px solid red;
      margin-left:50px;
@@ -737,8 +774,9 @@ td{
    .next{
      display: inline-block;
      border: 0px solid red;
+     height: 30px;
      margin-left: 35%;
-     margin-top: 40px;
+     margin-top: 20px;
      text-decoration: none;
      width: 600px;
 
